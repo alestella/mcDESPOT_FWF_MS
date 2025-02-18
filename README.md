@@ -1,2 +1,3 @@
 # mcDESPOT_FWF_MS
-A collection of bash and matlab scripts to correlate brain parenchyma free water fraction to lesion load and cognitive impariment in multiple sclerosis
+A collection of bash and matlab scripts to correlate brain parenchyma free water fraction to lesion load and cognitive impariment in multiple sclerosis - work in progress ... 
+Fixing a bug issue and going to upload the new scripts. 
